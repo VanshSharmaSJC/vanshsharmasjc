@@ -18,15 +18,100 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Developer from India who enjoys turning ideas into reliable, well-structured products, from responsive front ends to secure, scalable back-end services.
+I'm a **Full Stack Developer** from India who enjoys turning ideas into reliable, well-structured products, from responsive front ends to secure, scalable back-end services.
 
-<table> <tr> <td>🔭 <b>Working on</b></td> <td><a href="https://github.com/VanshSharmaSJC/devpulse">Devpulse</a></td> </tr> <tr> <td>🌱 <b>Learning</b></td> <td>Next.js</td> </tr> <tr> <td>👯 <b>Open to collaborate on</b></td> <td><a href="https://github.com/VanshSharmaSJC/Fraud-Detection-System-Using-SpringBoot">Bank Fraud Detection System</a></td> </tr> <tr> <td>💬 <b>Ask me about</b></td> <td>Full Stack Development</td> </tr> <tr> <td>📫 <b>Contact</b></td> <td><a href="mailto:vansh270906@gmail.com">vansh270906@gmail.com</a></td> </tr> <tr> <td>📄 <b>Experience</b></td> <td><a href="https://drive.google.com/file/d/1Zy2eocQEXZhGkzXsd524qCoZQsrzhbtr/view?usp=sharing">View my resume</a></td> </tr> </table> <br/>
-🚀 Featured Projects
-<div align="center"> <a href="https://github.com/VanshSharmaSJC/devpulse"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanshSharmaSJC&repo=devpulse&theme=tokyonight&hide_border=true" alt="Devpulse" /> </a> <a href="https://github.com/VanshSharmaSJC/Fraud-Detection-System-Using-SpringBoot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanshSharmaSJC&repo=Fraud-Detection-System-Using-SpringBoot&theme=tokyonight&hide_border=true" alt="Fraud Detection System" /> </a> </div> <br/>
-🛠️ Tech Stack
-<table> <tr> <td><b>Languages</b></td> <td><img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,bash" alt="Languages" /></td> </tr> <tr> <td><b>Frontend</b></td> <td><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap" alt="Frontend" /></td> </tr> <tr> <td><b>Backend</b></td> <td><img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka" alt="Backend" /></td> </tr> <tr> <td><b>Databases</b></td> <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" alt="Databases" /></td> </tr> <tr> <td><b>DevOps &amp; Tools</b></td> <td><img src="https://skillicons.dev/icons?i=docker,git,linux,postman,arduino" alt="DevOps and Tools" /></td> </tr> <tr> <td><b>Data</b></td> <td> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square" alt="Seaborn" /> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" /> </td> </tr> </table> <br/>
-📊 GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=vanshsharmasjc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshsharmasjc&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> <br/> <img src="https://streak-stats.demolab.com/?user=vanshsharmasjc&theme=tokyonight&hide_border=true" alt="GitHub streak" /> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshsharmasjc&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" /> <br/> <img src="https://github-profile-trophy.vercel.app/?username=vanshsharmasjc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" /> </div> <br/>
+<table>
+  <tr>
+    <td>🔭 <b>Working on</b></td>
+    <td><a href="https://github.com/VanshSharmaSJC/devpulse">Devpulse</a></td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Learning</b></td>
+    <td>Next.js</td>
+  </tr>
+  <tr>
+    <td>👯 <b>Open to collaborate on</b></td>
+    <td><a href="https://github.com/VanshSharmaSJC/Fraud-Detection-System-Using-SpringBoot">Bank Fraud Detection System</a></td>
+  </tr>
+  <tr>
+    <td>💬 <b>Ask me about</b></td>
+    <td>Full Stack Development</td>
+  </tr>
+  <tr>
+    <td>📫 <b>Contact</b></td>
+    <td><a href="mailto:vansh270906@gmail.com">vansh270906@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>📄 <b>Experience</b></td>
+    <td><a href="https://drive.google.com/file/d/1Zy2eocQEXZhGkzXsd524qCoZQsrzhbtr/view?usp=sharing">View my resume</a></td>
+  </tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/VanshSharmaSJC/devpulse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanshSharmaSJC&repo=devpulse&theme=tokyonight&hide_border=true" alt="Devpulse" />
+  </a>
+  <a href="https://github.com/VanshSharmaSJC/Fraud-Detection-System-Using-SpringBoot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanshSharmaSJC&repo=Fraud-Detection-System-Using-SpringBoot&theme=tokyonight&hide_border=true" alt="Fraud Detection System" />
+  </a>
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,bash" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" alt="Databases" /></td>
+  </tr>
+  <tr>
+    <td><b>DevOps &amp; Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git,linux,postman,arduino" alt="DevOps and Tools" /></td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square" alt="Seaborn" />
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vanshsharmasjc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshsharmasjc&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=vanshsharmasjc&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshsharmasjc&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vanshsharmasjc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
+</div>
+
+<br/>
+
 ## 🤝 Let's Connect
 
 Always happy to talk about software, collaborate on interesting projects, or discuss new opportunities.
