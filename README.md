@@ -1,31 +1,132 @@
-<h1 align="center">Hi 👋, I'm Vansh Sharma</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<!-- Header banner -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshsharmasjc&label=Profile%20views&color=0e75b6&style=flat" alt="vanshsharmasjc" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6a7&height=200&section=header&text=Vansh%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20India&descSize=20&descAlignY=58" alt="Vansh Sharma banner" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshsharmasjc" alt="vanshsharmasjc" /></a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+scalable+web+apps;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on [Devpulse](https://github.com/VanshSharmaSJC/devpulse)
+<br/>
 
-- 🌱 I’m currently learning **Next JS**
+<a href="mailto:vansh270906@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://drive.google.com/file/d/1Zy2eocQEXZhGkzXsd524qCoZQsrzhbtr/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0e75b6?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+<a href="https://github.com/vanshsharmasjc"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-- 👯 I’m looking to collaborate on [Bank-Fraud-Detection-System](https://github.com/VanshSharmaSJC/Fraud-Detection-System-Using-SpringBoot)
+<br/><br/>
 
-- 💬 Ask me about **Full Stack Dev**
+<img src="https://komarev.com/ghpvc/?username=vanshsharmasjc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/vanshsharmasjc?label=Followers&style=flat&color=0e75b6" alt="Followers" />
 
-- 📫 How to reach me **vansh270906@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Zy2eocQEXZhGkzXsd524qCoZQsrzhbtr/view?usp=sharing](https://drive.google.com/file/d/1Zy2eocQEXZhGkzXsd524qCoZQsrzhbtr/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 👨‍💻 About Me
+
+I'm a passionate **Full Stack Developer** from India who enjoys turning ideas into reliable, well-structured products. I work across the stack, from responsive front ends to secure, scalable back-end services.
+
+| | |
+|---|---|
+| 🔭 **Currently working on** | [Devpulse](https://github.com/VanshSharmaSJC/devpulse) |
+| 🌱 **Currently learning** | Next.js |
+| 👯 **Open to collaborate on** | [Bank Fraud Detection System](https://github.com/VanshSharmaSJC/Fraud-Detection-System-Using-SpringBoot) |
+| 💬 **Ask me about** | Full Stack Development |
+| 📫 **Reach me at** | [vansh270906@gmail.com](mailto:vansh270906@gmail.com) |
+| 📄 **My experience** | [View resume](https://drive.google.com/file/d/1Zy2eocQEXZhGkzXsd524qCoZQsrzhbtr/view?usp=sharing) |
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📡 <a href="https://github.com/VanshSharmaSJC/devpulse">Devpulse</a></h3>
+      <p>My current project, in active development.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/VanshSharmaSJC/Fraud-Detection-System-Using-SpringBoot">Bank Fraud Detection System</a></h3>
+      <p>A Spring Boot based system for detecting fraudulent banking transactions. Open to collaborators.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,bash" alt="Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Frontend**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshsharmasjc&show_icons=true&locale=en&layout=compact" alt="vanshsharmasjc" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap" alt="Frontend" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshsharmasjc&show_icons=true&locale=en" alt="vanshsharmasjc" /></p>
+**Backend**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshsharmasjc&" alt="vanshsharmasjc" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,kafka" alt="Backend" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" alt="Databases" />
+</p>
+
+**DevOps & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,postman,arduino" alt="DevOps and Tools" />
+</p>
+
+**Data & Visualization**
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vanshsharmasjc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshsharmasjc&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=vanshsharmasjc&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vanshsharmasjc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to talk about software, collaborate on interesting projects, or discuss new opportunities.
+
+<div align="center">
+
+<a href="mailto:vansh270906@gmail.com"><img src="https://img.shields.io/badge/Send%20me%20an%20email-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" /></a>
+
+<br/><br/>
+
+⭐ *If you like my work, consider giving my repositories a star.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6a7&height=100&section=footer" alt="footer" width="100%" />
